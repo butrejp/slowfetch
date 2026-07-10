@@ -6,5 +6,5 @@ you know fastfetch?  not that
 <details>
   <summary>Spoiler</summary>
 it's actually reasonably fast on non-atomic systems  
-real    0m0.328s
+```real    0m0.328s```
 </details>
